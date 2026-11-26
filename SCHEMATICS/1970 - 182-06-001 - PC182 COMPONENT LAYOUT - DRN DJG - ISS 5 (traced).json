@@ -1,0 +1,57 @@
+{
+ "drawing": "Modules/UNSORTED/M182/SCHEMATICS/1970 - 182-06-001 - PC182 COMPONENT LAYOUT - DRN DJG - ISS 5.jpg",
+ "version": 1,
+ "trace": "_traces/e122afd549b31c89.svg",
+ "sheet": {
+  "number": "B 182-06-001",
+  "title": "PC182 / COMPONENT LAYOUT",
+  "dtype": "06",
+  "type": "component layout",
+  "size": "B",
+  "size_assumed": false,
+  "rotate": 90,
+  "px": [2000, 1414],
+  "mm": [431.8, 305.3],
+  "mm_per_px": 0.2159
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [2.3, -0.1, 431.9, 286.2],
+ "outlines": {
+  "line": {"rings": 2269, "straight": {"n": 14892, "mm": 13380.5}, "curved": {"n": 3836, "mm": 3525.0}},
+  "text": {"rings": 319, "straight": {"n": 2256, "mm": 1917.4}, "curved": {"n": 689, "mm": 711.7}}
+ },
+ "circles": [
+  {"c": [263.4, 119.0], "r": 2.6, "kind": "circle", "span": 360, "from": ["outline"], "stroke": 0.3},
+  {"c": [334.3, 22.9], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [289.0, 227.4], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [215.3, 35.1], "r": 1.8, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [169.3, 191.3], "r": 1.3, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [187.0, 117.4], "r": 1.1, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [194.5, 234.2, 205.8, 239.2], "w": 11.3, "h": 5.0, "from": "ring"},
+  {"mm": [185.0, 0.0, 430.3, 51.0], "w": 245.3, "h": 51.0, "from": "ring"},
+  {"mm": [190.8, 40.2, 203.6, 49.1], "w": 12.8, "h": 8.9, "from": "ring"},
+  {"mm": [242.7, 12.1, 320.6, 49.1], "w": 77.9, "h": 37.0, "from": "ring"},
+  {"mm": [204.8, 40.1, 242.2, 49.0], "w": 37.5, "h": 8.9, "from": "ring"},
+  {"mm": [190.9, 31.1, 203.6, 39.7], "w": 12.7, "h": 8.6, "from": "ring"},
+  {"mm": [204.9, 30.9, 242.2, 39.7], "w": 37.4, "h": 8.9, "from": "ring"},
+  {"mm": [321.7, 12.0, 426.0, 39.3], "w": 104.3, "h": 27.3, "from": "ring"},
+  {"mm": [190.8, 21.3, 203.6, 30.7], "w": 12.8, "h": 9.4, "from": "ring"},
+  {"mm": [204.7, 21.3, 242.3, 30.7], "w": 37.6, "h": 9.4, "from": "ring"},
+  {"mm": [190.9, 12.2, 203.6, 21.0], "w": 12.7, "h": 8.8, "from": "ring"},
+  {"mm": [204.6, 12.1, 242.2, 21.0], "w": 37.6, "h": 8.9, "from": "ring"},
+  {"mm": [334.9, 2.9, 402.4, 11.7], "w": 67.6, "h": 8.8, "from": "ring"},
+  {"mm": [321.9, 3.0, 334.4, 11.7], "w": 12.6, "h": 8.7, "from": "ring"}
+ ],
+ "text": {"words": 0, "lines": [], "note": "no OCR words typed in (the sheet was read turned, or no words were found)"},
+ "dots": [{"c": [179.0, 230.7], "r": 1.2, "lines": 0}],
+ "summary": [
+  "- **Sheet:** component layout B 182-06-001, size B 432 × 305 mm, 2000 × 1414 px traced (0.216 mm/px), turned 90°",
+  "- **Ink extent:** 2–432 mm across, 0–286 mm up",
+  "- **Outlines:** line 2,269 rings, 14,892 straight (13,380 mm) / 3,836 curved (3,525 mm); text 319 rings, 2,256 straight (1,917 mm) / 689 curved (712 mm)",
+  "- **Circles and arcs:** 6 circles, 0 arcs; largest r 2.6 @ (263.4, 119.0), r 1.8 @ (334.3, 22.9), r 1.8 @ (289.0, 227.4), r 1.8 @ (215.3, 35.1)",
+  "- **Closed boxes:** 14",
+  "- **Dots (junctions):** 1"
+ ]
+}
