@@ -41,7 +41,7 @@ Booster amplifier schematic strip with title block at bottom right.
 - **Title block:** (284, 5)–(428, 30) mm: [SS MOp ICKD] · USED ON · Ma · WARD-BECK BYBTEMB · 302 · 780 618 · WBS · 254 · DRM GP · M441 · SERIES · Finish · DAIE APR 73 · CKD · BOOSTER · SCHEMATIC · AMPLIFIER · SCALE · TOLS · 182-02-0o1
 - **Wiring (first pass):** 40 connected wire groups from 212 runs; labelled ends: 138 mm → zioi, 317, Ri23, I5k; 88 mm → Rio3, 3k3, Rio8, RIIO; 69 mm → 3130, 620, RM, zioi; 66 mm → 3185, Rio4, 3k3, Ri07-; 58 mm → PIN I5, Pc 181
 
-Every curve, box, word and wire group: [1973 - 182-02-001 - M441 SERIES BOOSTER AMPLIFIER SCHEMATIC - DRN GP - ENG GEB in revision table at left (traced).json](../SCHEMATICS/1973%20-%20182-02-001%20-%20M441%20SERIES%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GP%20-%20ENG%20GEB%20in%20revision%20table%20at%20left%20(traced).json) (the CAD file: `1973 - 182-02-001 - M441 SERIES BOOSTER AMPLIFIER SCHEMATIC - DRN GP - ENG GEB in revision table at left (traced).dxf`).
+Every curve, box, word and wire group: [1973 - 182-02-001 - M441 SERIES BOOSTER AMPLIFIER SCHEMATIC - DRN GP - ENG GEB in revision table at left (traced).json](../SCHEMATICS/1973%20-%20182-02-001%20-%20M441%20SERIES%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GP%20-%20ENG%20GEB%20in%20revision%20table%20at%20left%20%28traced%29.json) (the CAD file: `1973 - 182-02-001 - M441 SERIES BOOSTER AMPLIFIER SCHEMATIC - DRN GP - ENG GEB in revision table at left (traced).dxf`).
 
 ## Full text
 

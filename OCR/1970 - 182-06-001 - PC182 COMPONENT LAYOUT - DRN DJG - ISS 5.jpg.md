@@ -32,7 +32,7 @@ Wiki page: [M182](../../../../PAGES/M182.md)
 - **Closed boxes:** 14
 - **Dots (junctions):** 1
 
-Every curve, box, word and wire group: [1970 - 182-06-001 - PC182 COMPONENT LAYOUT - DRN DJG - ISS 5 (traced).json](../SCHEMATICS/1970%20-%20182-06-001%20-%20PC182%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%205%20(traced).json) (the CAD file: `1970 - 182-06-001 - PC182 COMPONENT LAYOUT - DRN DJG - ISS 5 (traced).dxf`).
+Every curve, box, word and wire group: [1970 - 182-06-001 - PC182 COMPONENT LAYOUT - DRN DJG - ISS 5 (traced).json](../SCHEMATICS/1970%20-%20182-06-001%20-%20PC182%20COMPONENT%20LAYOUT%20-%20DRN%20DJG%20-%20ISS%205%20%28traced%29.json) (the CAD file: `1970 - 182-06-001 - PC182 COMPONENT LAYOUT - DRN DJG - ISS 5 (traced).dxf`).
 
 ## Full text
 
