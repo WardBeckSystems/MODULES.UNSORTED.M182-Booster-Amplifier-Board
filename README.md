@@ -1,6 +1,6 @@
 # M182 Booster Amplifier Board · Amplifiers
 
-Ward-Beck Systems M182, 1970|3. Wiki page: [M182 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M182.html)
+Ward-Beck Systems M182, 1970|3. Wiki page: [M182 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.AMPLIFIERS.M182-Booster-Amplifier-Board/)
 
 | Folder | What is in it | Files |
 |---|---|---|

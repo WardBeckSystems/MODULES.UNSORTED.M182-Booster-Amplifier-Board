@@ -1,5 +1,5 @@
 # 1973 - 182-02-001 - M441 SERIES BOOSTER AMPLIFIER SCHEMATIC - DRN GP - ENG GEB in revision table at left.jpg
-Wiki page: [M182](../../../../PAGES/M182.md)
+Wiki page: [M182](../)
 
 
 - **Year:** 1973 (title block date)

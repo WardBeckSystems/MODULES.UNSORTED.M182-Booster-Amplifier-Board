@@ -1,5 +1,5 @@
 # 1970 - 182-06-001 - PC182 COMPONENT LAYOUT - DRN DJG - ISS 5.jpg
-Wiki page: [M182](../../../../PAGES/M182.md)
+Wiki page: [M182](../)
 
 
 - **Year:** 1970 (title block date)
